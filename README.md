@@ -14,4 +14,4 @@ This project analyzes EPA air quality data and visualizes pollution trends using
 - Visualization of environmental data
 
 ## Dashboard Link
-(Add your Tableau Public link here)# epa-air-quality-dashboard-
+https://public.tableau.com/app/profile/jhansirani.chatti/viz/USAirQualityAnalysis/PollutionComplianceDashboard # epa-air-quality-dashboard-
